@@ -9,22 +9,6 @@ Successful Software Engineer offering 5 years of experience in demanding environ
 systems for Web Application Development.<br> Skilled in directing development with creative and performance-oriented approach.
 Excellent problem solver and fast learner
 
-# Skills ⚙️
-
-
-| Skill |  Level                       |
-| :-------- | :-------------------------------- |
-| `Node.js`      |  🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢 |
-| `PHP`      |  🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢  |
-| `Wordpress`      |  🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢  |
-| `Laravel`      |  🟢🟢🟢🟢🟢🟢🟢🟢🟢⚪  |
-| `React.js`      |  🟢🟢🟢🟢🟢🟢🟢🟢⚪⚪  |
-| `Python`      |  🟢🟢🟢🟢🟢🟢🟢🟢⚪⚪  |
-| `HTML/SCSS/Javascript`      |  🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢  |
-| `Problem Solving`      |  🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢  |
-| `Git`      |  🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢  |
-| `C#`      |  🟢🟢🟢🟢🟢⚪⚪⚪⚪⚪  |
-
 <br>
 
 # Work History 📜
