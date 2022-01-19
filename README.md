@@ -31,6 +31,16 @@ Excellent problem solver and fast learner
 - Built application platform foundation to support migration from client-server product lines to enterprise architectures and services.
 - Coordinated with systems partners to finalize designs and confirm requirement
 
+### Lead Developer | SYQEL
+- Designed and build the code and the infrastructure for a fully fledged web application
+- Integrated many different APIs and made them work together with the web application
+- Designed and integrated algorithms that use real word data to classify changes
+- Integrated I/O hardware with web applications
+- Designed and developed CMS to classify and modify content
+- Designed and developed API to fetch and provide data
+- Designed and developed WebGL solutions to visualize music from audio streams
+- Integrated Firebase with web applications
+
 ### Software Engineer | Freelancer At Upwork
 
 - Used different technologies to create solutions for a variety of problems
