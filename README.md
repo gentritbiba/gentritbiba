@@ -14,7 +14,7 @@ Excellent problem solver and fast learner
 # Work History 📜
 
 
-### Airfind | Honest SEO Digital 
+### Full Stack Engineer | Airfind
 
 - Developing and maintaining solutions for monetizing interactions for the company partners
 - Helped on creating and completing tickets that improve performance of the services we used
