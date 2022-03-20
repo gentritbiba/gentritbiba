@@ -36,6 +36,7 @@ Excellent problem solver and fast learner
 - Integrated many different APIs and made them work together with the web application
 - Designed and integrated algorithms that use real word data to classify changes
 - Integrated I/O hardware with web applications
+- Used WebRTC to stream audio and video and transform it to visual art.
 - Designed and developed CMS to classify and modify content
 - Designed and developed API to fetch and provide data
 - Designed and developed WebGL solutions to visualize music from audio streams
@@ -44,7 +45,7 @@ Excellent problem solver and fast learner
 ### Software Engineer | Freelancer At Upwork
 
 - Used different technologies to create solutions for a variety of problems
-- Work in projects that required proficiency in Node.js, PHP, ReactJS, Python etc.
+- Work in projects that required proficiency in Node.js, PHP, ReactJS, Python, WebRTC etc.
 - Orchestrated efficient large-scale software deployments, including testing features and correcting code.
 - Reviewed project specifications and designed technology solutions that met or exceeded performance expectations.
 - Consulted regularly with internal customers on application development project status, new project proposals and software-related technical issues.
