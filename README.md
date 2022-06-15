@@ -1,5 +1,23 @@
-<div align="center">
-    <img src="./readme-css.svg" width="400" height="400" alt="css-in-readme">
+<!-- <svg fill="none" width="0" height="0" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+            <style>
+                body{
+                }
+                #profile-img{
+                    display: flex;
+                    justify-content:center;
+                }
+                img{
+                    max-width: 300px;
+                    border-radius:50%;        
+                }
+            </style>
+    </foreignObject>
+</svg> -->
+
+<div id="profile-img">
+
+![](https://lh3.googleusercontent.com/2Mfs1s3NOj6rT7SkD-bQKo1Imut_Xe8pGQvxop1ampb20N52Zwa4l-V-7sudmd6RVufLIqRI3pkHJIeHf5Eb6MZwodvo38mZ700TrvzvhdaXQALTV4UEtX8OWxZh63rnwSuQ7jclJQ)
 </div>
 
 
