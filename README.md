@@ -1,15 +1,21 @@
-<style>
-    body{
-    }
-    #profile-img{
-        display: flex;
-        justify-content:center;
-    }
-    img{
-        max-width: 300px;
-        border-radius:50%;        
-    }
-</style>
+<svg fill="none" width="0" height="0" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+            <style>
+                body{
+                }
+                #profile-img{
+                    display: flex;
+                    justify-content:center;
+                }
+                img{
+                    max-width: 300px;
+                    border-radius:50%;        
+                }
+            </style>
+    </foreignObject>
+</svg>
+
+
 
 
 <div id="profile-img">
