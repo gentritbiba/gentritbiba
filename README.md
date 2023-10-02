@@ -15,10 +15,6 @@
     </foreignObject>
 </svg> -->
 
-<div id="profile-img">
-
-![](https://lh3.googleusercontent.com/2Mfs1s3NOj6rT7SkD-bQKo1Imut_Xe8pGQvxop1ampb20N52Zwa4l-V-7sudmd6RVufLIqRI3pkHJIeHf5Eb6MZwodvo38mZ700TrvzvhdaXQALTV4UEtX8OWxZh63rnwSuQ7jclJQ)
-</div>
 
 
 # About me
