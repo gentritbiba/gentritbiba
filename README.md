@@ -29,6 +29,14 @@ Excellent problem solver and fast learner
 # Work History 📜
 
 
+### Lead Developer | Honest SEO Digital 
+
+- Planned website development, converting mockups into usable web presence with HTML, JavaScript, AJAX and JSON coding.
+- Guided and influenced existing partners on recommended upgrades and enhancements to integrated solutions.
+- Designed and developed solution to automate manual work that saves hundred of hours every month
+- Built application platform foundation to support migration from client-server product lines to enterprise architectures and services.
+- Coordinated with systems partners to finalize designs and confirm requirement
+
 ### Full Stack Engineer | Airfind
 
 - Developing and maintaining solutions for monetizing interactions for the company partners
@@ -38,13 +46,6 @@ Excellent problem solver and fast learner
 - Reviewd the code of my team members and helped them improve it
 - Checked client code for bugs and weaknesses using approved troubleshooting methods.
 
-### Lead Developer | Honest SEO Digital 
-
-- Planned website development, converting mockups into usable web presence with HTML, JavaScript, AJAX and JSON coding.
-- Guided and influenced existing partners on recommended upgrades and enhancements to integrated solutions.
-- Designed and developed solution to automate manual work that saves hundred of hours every month
-- Built application platform foundation to support migration from client-server product lines to enterprise architectures and services.
-- Coordinated with systems partners to finalize designs and confirm requirement
 
 ### Lead Developer | SYQEL
 - Designed and build the code and the infrastructure for a fully fledged web application
