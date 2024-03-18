@@ -20,7 +20,7 @@
 # About me
 E-mail  gentritbiba@gmail.com
 
-Successful Software Engineer offering 5 years of experience in demanding environments focused on producing cutting-edge
+Successful Software Engineer offering 6 years of experience in demanding environments focused on producing cutting-edge
 systems for Web Application Development.<br> Skilled in directing development with creative and performance-oriented approach.
 Excellent problem solver and fast learner
 
