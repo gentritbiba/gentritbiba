@@ -88,12 +88,6 @@ _Universiteti i Prishtines - Prishtine_
 
 ---
 
-## 🏆 Accomplishments
-
-- Solved 89 problems on one of the most prestigious mathematical/computer programming problems archives ([Project Eurler](https://projecteuler.net)) Earned the **#1 spot in Kosovo** and equivalent to **#7 in Albania**
-
----
-
 ## 📜 Certifications
 
 - [Advanced React | Meta](https://www.coursera.org/account/accomplishments/records/3I6W4R8YZ9Q0)
