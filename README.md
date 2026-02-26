@@ -1,102 +1,36 @@
-<!-- <svg fill="none" width="0" height="0" xmlns="http://www.w3.org/2000/svg">
-    <foreignObject width="100%" height="100%">
-            <style>
-                body{
-                }
-                #profile-img{
-                    display: flex;
-                    justify-content:center;
-                }
-                img{
-                    max-width: 300px;
-                    border-radius:50%;        
-                }
-            </style>
-    </foreignObject>
-</svg> -->
+<a href="https://gentrit.dev">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FFFFFF&vCenter=true&width=500&lines=Hey%2C+I'm+Gentrit;I+build+things+for+the+web" alt="Typing SVG" />
+</a>
 
+8+ years of turning ideas into fast, reliable software.
 
+Currently focused on full-stack development, AI workflows, and developer tooling.
 
-# 👨‍💻 About Me
-
-**Email:** gentritbiba@gmail.com
-**Portfolio:** [gentrit.dev](https://gentrit.dev)
-
-Successful Software Engineer offering 8 years of experience in demanding environments focused on producing cutting-edge systems for Web Application Development. Skilled in directing development with creative and performance-oriented approach. Excellent problem solver and fast learner.
+[![Portfolio](https://img.shields.io/badge/gentrit.dev-000000?style=for-the-badge&logo=safari&logoColor=white)](https://gentrit.dev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gentritbiba@gmail.com)
 
 ---
 
-## 📜 Work History
+## Tech Stack
 
-### Lead Developer | Honest SEO Digital
-
-- Guided and influenced existing partners on recommended upgrades and enhancements to integrated solutions
-- Designed and developed solution to automate manual work that saves hundreds of hours every month
-- Built application platform foundation to support migration from client-server product lines to enterprise architectures and services
-- Created AI workflows to increase productivity, engineered multiple projects, designed and developed many more and also did the architecture for the biggest services they offer
-- Coordinated with systems partners to finalize designs and confirm requirements
-
-### Full Stack Engineer | Airfind
-
-- Developed and maintained solutions for monetizing interactions for the company partners
-- Created and completed tickets that improved performance of the services
-- Analyzed and researched developing new services
-- Investigated and solved different issues caused by complex problems
-- Reviewed team members' code and helped them improve it
-- Checked client code for bugs and weaknesses using approved troubleshooting methods
-
-### Lead Developer | SYQEL
-
-- Designed and built the code and infrastructure for a fully-fledged web application
-- Integrated many different APIs and made them work together with the web application
-- Designed and integrated algorithms that use real-world data to classify changes
-- Integrated I/O hardware with web applications
-- Used WebRTC to stream audio and video and transform it to visual art
-- Designed and developed CMS to classify and modify content
-- Designed and developed API to fetch and provide data
-- Designed and developed WebGL solutions to visualize music from audio streams
-- Integrated Firebase with web applications
-
-### Software Engineer | Freelancer at Upwork
-
-- Used different technologies to create solutions for a variety of problems
-- Worked on projects requiring proficiency in Node.js, PHP, ReactJS, Python, WebRTC, etc.
-- Orchestrated efficient large-scale software deployments, including testing features and correcting code
-- Reviewed project specifications and designed technology solutions that met or exceeded performance expectations
-- Consulted regularly with internal customers on application development project status, new project proposals, and software-related technical issues
-- Collaborated with clients to define solution requirements, accounting for applicable development variables
-- Introduced agile methodologies and development best practices to enhance product development
-- Identified and documented all project changes by proactively overseeing budgeting and scope concerns
-- Checked client code for bugs and weaknesses using approved troubleshooting methods
-- Led software development initiatives as subject matter expert and primary point-of-contact for project management staff
-
-### Front End Developer | TimeFrame
-
-- Developed designs to meet specific requirements such as quick-loading sites with particular layouts
-- Collaborated with stakeholders during development processes to confirm creative proposals and design best practices
-- Worked in Agile-driven environment to effectively maintain project timelines and utilize available resources
-- Produced websites compatible with multiple browsers
-- Developed custom web application front-end
-- Created themes for WordPress
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
-## 🎓 Education
+## Notable
 
-**Bachelor of Science: Computer Science and Engineering**
-_Universiteti i Prishtines - Prishtine_
+- **#1 in Kosovo** on [Project Euler](https://projecteuler.net)
 
 ---
 
-## 📜 Certifications
-
-- [Advanced React | Meta](https://www.coursera.org/account/accomplishments/records/3I6W4R8YZ9Q0)
-- [Project Execution: Running the Project | Google](https://www.coursera.org/account/accomplishments/records/HS0XA5UB4VGH)
-- [Project Initiation: Starting a Successful Project | Google](https://www.coursera.org/account/accomplishments/records/TR49G630IOMH)
-- [Project Planning: Putting It All Together | Google](https://www.coursera.org/account/accomplishments/records/Z2F2ZO9ICKKN)
-- [Foundations of Project Management | Google](https://www.coursera.org/account/accomplishments/records/FF1DQX3EW2U6)
-- [Rest API | HackerRank](https://www.hackerrank.com/certificates/7a2fc7aed39c)
-- [Problem Solving | HackerRank](https://www.hackerrank.com/certificates/cf816bd73814)
-- [JavaScript | HackerRank](https://www.hackerrank.com/certificates/02852118c286)
-- [Python | HackerRank](https://www.hackerrank.com/certificates/f63ebbc21818)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gentritbiba/gentritbiba/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gentritbiba/gentritbiba/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/gentritbiba/gentritbiba/output/github-snake.svg" />
+</picture>
