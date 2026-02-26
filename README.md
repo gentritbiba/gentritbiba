@@ -7,6 +7,7 @@
 Currently focused on full-stack development, AI workflows, and developer tooling.
 
 [![Portfolio](https://img.shields.io/badge/gentrit.dev-000000?style=for-the-badge&logo=safari&logoColor=white)](https://gentrit.dev)
+[![Blog](https://img.shields.io/badge/blog-FF5722?style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.gentrit.dev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gentritbiba@gmail.com)
 
 ---
