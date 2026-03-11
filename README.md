@@ -1,5 +1,5 @@
 <a href="https://gentrit.dev">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FFFFFF&vCenter=true&width=500&lines=Hey%2C+I'm+Gentrit" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=20000&color=FFFFFF&vCenter=true&width=500&lines=Hey%2C+I'm+Gentrit" alt="Typing SVG" />
 </a>
 
 8+ years of turning ideas into fast, reliable software.
